@@ -1,6 +1,6 @@
 # "Temporal Transparency in Black-Box DMS's" 
 
-Project directory of **"Temporal Transparency in Black-Box DMS's"**. The repository contains the following eight directories: 
+Project directory of **"Temporal Transparency in Black-Box DMS's"**. The repository contains the following directories: 
 - **TETRA**: Change Point Detection Framework.
 - **Datasets**: Raw files of the datasets analysed.
 - **Collect Data**: Code for collecting and building time series of data from the datasets available.
